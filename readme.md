@@ -1,9 +1,11 @@
-# Yu-Gi-Oh | Jo-ken-po Edition
+# 🎴 Yu-Gi-Oh | Jo-ken-po Edition  
 
-Jogo de jokenpo que criei para explicar conceitos de lógica de programação aplicados a jogos
+## 👩‍💻 Objetivo  
 
-conceitos abordados:
+Minha missão foi reproduzir passo a passo o que vi na aula, e no final ter meu próprio **jogo de cartas Yu-Gi-Oh!** funcionando.  
 
-- Armazenamento e gerenciamento de estado manual
-- Funções limpas
-- Organização de código
+## 🧩 Conceitos abordados  
+
+- Armazenamento e gerenciamento de estado manual  
+- Funções limpas  
+- Organização de código  
